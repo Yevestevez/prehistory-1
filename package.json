@@ -1,0 +1,22 @@
+{
+    "name": "prehistory-1",
+    "version": "1.0.0",
+    "description": "Un proyecto para practicar diseño web basado en la presentación de Ana Pérez, profesora de Geografía e Historia de la ESO y Bachillerato.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yevestevez/prehistory-1.git"
+    },
+    "author": "Edu Yeves",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/Yevestevez/prehistory-1/issues"
+    },
+    "homepage": "https://github.com/Yevestevez/prehistory-1#readme",
+    "prettier": {
+        "singleQuote": true
+    }
+}
